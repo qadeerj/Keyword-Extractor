@@ -1,0 +1,9 @@
+#intor of mine
+Hello everyone! I'm Muhammad Qadeer, a data scientist with over two years of experience, and I'm excited to share my journey with you. In the dynamic field of data science, I've honed my skills in data preprocessing, visualization, machine learning, and deep learning. Using tools like Python, Jupyter Notebook, Excel, PowerBI, SQL, Oracle Virtual Machine, and Colab, I love transforming raw data into valuable insights.
+
+My passion lies in the pursuit of excellence in data analytics. Whether it's applying machine learning algorithms or creating compelling visualizations, I'm committed to turning data into actionable intelligence. I find joy in navigating structured databases and exploring the potential of neural networks, driven by the thrill of discovery and the promise of innovation.
+
+Come join me on this ever-evolving journey in data science, where each dataset presents a unique challenge and an opportunity for personal and professional growth. Together, let's harness the power of information to create a future where data not only speaks but also empowers positive change.
+
+#no2
+Greetings! I'm Muhammad Qadeer, an experienced data scientist with over two years in the field. My expertise includes data preprocessing, visualization, machine learning, and deep learning, utilizing tools such as Python, Jupyter Notebook, Excel, PowerBI, SQL, Oracle Virtual Machine, and Colab. I am passionate about translating raw data into actionable insights, and I thrive on the challenges and innovations in the dynamic landscape of data science. Join me on Upwork as we navigate the exciting world of data, turning it into a powerful catalyst for positive change.
